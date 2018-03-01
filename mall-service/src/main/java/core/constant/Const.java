@@ -1,4 +1,4 @@
-package constant;
+package core.constant;
 
 public class Const {
 	//user表里面的两个角色
